@@ -1,7 +1,7 @@
 package com.company.structural.flyweight;
 
 /**
- * Created by albertopalomarrobledo on 4/8/19.
+ * Created by felipemurcia on 4/8/19.
  */
 public class Private implements Enemy {
 

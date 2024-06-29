@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by albertopalomarrobledo on 3/8/19.
+ * Created by felipemurcia on 3/8/19.
  */
 public class CuentaComposite implements CuentaComponent {
 

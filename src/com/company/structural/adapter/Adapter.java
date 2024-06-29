@@ -1,7 +1,7 @@
 package com.company.structural.adapter;
 
 /**
- * Created by albertopalomarrobledo on 2/8/19.
+ * Created by felipemurcia on 2/8/19.
  */
 public class Adapter implements Payment {
 

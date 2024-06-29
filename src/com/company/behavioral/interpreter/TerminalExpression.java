@@ -1,7 +1,7 @@
 package com.company.behavioral.interpreter;
 
 /**
- * Created by albertopalomarrobledo on 1/8/19.
+ * Created by felipemurcia on 1/8/19.
  */
 public class TerminalExpression implements Expression {
 

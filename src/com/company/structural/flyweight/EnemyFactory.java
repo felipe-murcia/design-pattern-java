@@ -3,7 +3,7 @@ package com.company.structural.flyweight;
 import java.util.HashMap;
 
 /**
- * Created by albertopalomarrobledo on 4/8/19.
+ * Created by felipemurcia on 4/8/19.
  */
 public class EnemyFactory {
 

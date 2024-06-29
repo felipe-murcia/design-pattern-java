@@ -7,7 +7,7 @@ import static com.company.creational.prototype.PrototypeFactory.CartType.AMEX;
 import static com.company.creational.prototype.PrototypeFactory.CartType.VISA;
 
 /**
- * Created by albertopalomarrobledo on 20/7/19.
+ * Created by felipemurcia on 20/7/19.
  */
 public class PrototypeFactory {
 

@@ -1,7 +1,7 @@
 package com.company.behavioral.templatemethod;
 
 /**
- * Created by albertopalomarrobledo on 1/8/19.
+ * Created by felipemurcia on 1/8/19.
  */
 public abstract class Payment {
 

@@ -3,7 +3,7 @@ package com.company.structural.decorator;
 import com.company.structural.bridge.CreditCard;
 
 /**
- * Created by albertopalomarrobledo on 3/8/19.
+ * Created by felipemurcia on 3/8/19.
  */
 public class Black implements Credit {
     @Override

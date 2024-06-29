@@ -3,7 +3,7 @@ package com.company.behavioral.templatemethod;
 import com.company.creational.abstractfactory.PaymentMethod;
 
 /**
- * Created by albertopalomarrobledo on 1/8/19.
+ * Created by felipemurcia on 1/8/19.
  */
 public class Paypal extends Payment{
 

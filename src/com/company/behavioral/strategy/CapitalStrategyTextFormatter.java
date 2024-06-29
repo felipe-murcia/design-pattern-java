@@ -1,7 +1,7 @@
 package com.company.behavioral.strategy;
 
 /**
- * Created by albertopalomarrobledo on 1/8/19.
+ * Created by felipemurcia on 1/8/19.
  */
 public class CapitalStrategyTextFormatter implements StragetyTextFormatter  {
 

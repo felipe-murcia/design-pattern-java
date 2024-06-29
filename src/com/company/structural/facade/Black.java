@@ -1,7 +1,7 @@
 package com.company.structural.facade;
 
 /**
- * Created by albertopalomarrobledo on 3/8/19.
+ * Created by felipemurcia on 3/8/19.
  */
 public class Black implements Credit{
     @Override

@@ -1,7 +1,7 @@
 package com.company.creational.singlenton;
 
 /**
- * Created by albertopalomarrobledo on 29/7/19.
+ * Created by felipemurcia on 29/7/19.
  */
 public class Card {
 
